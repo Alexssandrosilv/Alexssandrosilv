@@ -6,23 +6,20 @@ Olá! Sou Alex, **Graduando em Estatística pela UFAM** e moro em Manaus - AM. T
 
 ## Conecte-se comigo
 
-<p align="center">
-    <a href="https://www.instagram.com/_alexssandrosilv_/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href = "mailto:alexssandrosg@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/alexssandro-silva-3b63aa19b/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</p>
+<p align="left">
+    <a href="https://www.instagram.com/_alexssandrosilv_/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/alexssandro-silva-3b63aa19b/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:alexssandrosg@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    </p>
 
 ##
 
 ## Linguagens e Ferramentas para Análise de Dados
 
-<p align="center">
+<p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45px" style="padding-right: 30px;" alt="R" title="R" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px" style="padding-right: 30px;" alt="Python" title="Python (Em Estudo)" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px" style="padding-right: 30px;" alt="MySQL" title="MySQL (Em Estudo)" />
