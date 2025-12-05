@@ -35,5 +35,5 @@ Muito prazer, meu nome e Alexssandro, **Graduando em Estatística pela UFAM** e 
 ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexssandrosilv/Alexssandrosilv/main/dist/github-contribution-grid-snake.svg" alt="github-snake" style="padding-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/Alexssandrosilv/Alexssandrosilv/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
