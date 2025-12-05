@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="[COLE A URL RAW DO SEU BANNER AQUI]" alt="Banner de Perfil com tema de Estatística/Análise de Dados" />
-</p>
+# Alexssandro da Silva Oliveira 
 
-# 🧑🏻‍💻 Alexssandro da Silva Oliveira
-
-**`Estatístico | Analista de Dados Júnior`**
+**`Acadêmico de Estatística`**
 
 Olá! Sou Alex, tenho 24 anos e sou de Manaus - AM.
 Sou Graduando em Bacharelado em Estatística pela Universidade Federal do Amazonas (UFAM), com previsão de conclusão em julho/2026. Meu objetivo é atuar como Estatístico ou Analista de Dados Júnior, fornecendo suporte técnico para decisões baseadas em dados.
 
 Possuo experiência em:
+
 * Análise exploratória de dados (EDA), modelagem estatística, simulação e automação de relatórios com R.
 * Desenvolvimento de dashboards no Power BI e automação de relatórios em R com publicação via GitHub Pages.
 * Consultoria estatística para validação de hipóteses em pesquisas acadêmicas.
