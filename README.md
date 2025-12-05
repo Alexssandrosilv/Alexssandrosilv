@@ -2,45 +2,18 @@
 
 **`Acadêmico de Estatística`**
 
-Olá! Sou Alex, tenho 24 anos e sou de Manaus - AM.
-
-Sou Graduando em Bacharelado em Estatística pela Universidade Federal do Amazonas (UFAM), com previsão de conclusão em julho/2026. Meu objetivo é atuar como Estatístico, Analista de Dados Júnior ou Trainee, fornecendo suporte técnico para decisões baseadas em dados.
+Olá! Sou Alex, tenho 24 anos e sou de Manaus - AM. Sou Graduando em Bacharelado em Estatística pela Universidade Federal do Amazonas (UFAM), com previsão de conclusão em julho/2026. Meu objetivo é atuar como Estatístico, Analista de Dados Júnior ou Trainee, fornecendo suporte técnico para decisões baseadas em dados.
 
 ##
 
-<p align="center">
-    <a href="https://github.com/Alexssandrosilv?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Alexssandrosilv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-        <a href="https://github.com/Alexssandrosilv?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Alexssandrosilv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-        <a href="https://www.linkedin.com/in/alexssandro-silva-3b63aa19b/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-        <a href="mailto:alexssandrosg@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Entre em Contato" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
 ##
-
 
 ## Linguagens e Ferramentas para Análise de Dados
 
@@ -53,29 +26,3 @@ Sou Graduando em Bacharelado em Estatística pela Universidade Federal do Amazon
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" title="Power BI" style="padding-right: 30px;" />
     <img src="https://img.shields.io/badge/Sheets_/_Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets / Excel" title="Google Sheets / Excel" />
 </p>
-
----
-
-### 📊 Estatísticas e Destaques (Tema: Dracula)
-
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 15px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Alexssandrosilv&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      alt="Top Linguagens" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssandrosilv&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
-## Quer Colaborar?
-
-Interessado em análise de dados ou projetos de Estatística? Ficarei feliz em colaborar. Meus repositórios mais ativos estão com foco em **R, Modelagem Estatística**.
-
-**[Visite meus Repositórios](https://github.com/Alexssandrosilv?tab=repositories)**
