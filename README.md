@@ -2,7 +2,8 @@
 
 **`Acadêmico de Estatística`**
 
-Olá! Sou Alex, **Graduando em Estatística pela UFAM** e moro em Manaus - AM. Tenho 24 anos e busco atuar como **Estatístico ou Analista de Dados Júnior**, aplicando conhecimentos técnicos para oferecer suporte na tomada de decisões baseadas em dados.
+Olá tudo bem 🙂...
+Muito prazer, meu nome e Alexssandro, **Graduando em Estatística pela UFAM** e moro em Manaus - AM. Tenho 24 anos e busco atuar como **Estatístico ou Analista de Dados Júnior**, aplicando conhecimentos técnicos para oferecer suporte na tomada de decisões baseadas em dados.
 
 ## Conecte-se comigo
 
