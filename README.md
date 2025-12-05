@@ -1,21 +1,12 @@
-<p align="center">
-  <img src="[COLE A URL RAW DO SEU BANNER AQUI]" alt="Banner de Perfil com tema de Estatística/Análise de Dados" />
-</p>
-
-# 📊 Alexssandro da Silva Oliveira 
+#  Alexssandro da Silva Oliveira 
 
 **`Acadêmico de Estatística`**
 
 Olá! Sou Alex, tenho 24 anos e sou de Manaus - AM.
+
 Sou Graduando em Bacharelado em Estatística pela Universidade Federal do Amazonas (UFAM), com previsão de conclusão em julho/2026. Meu objetivo é atuar como Estatístico, Analista de Dados Júnior ou Trainee, fornecendo suporte técnico para decisões baseadas em dados.
 
-Possuo experiência em:
-
-* Análise exploratória de dados (EDA), modelagem estatística, simulação.
-* **Automação de relatórios em R** (com publicação via GitHub Pages).
-* Consultoria estatística para validação de hipóteses em pesquisas acadêmicas.
-
----
+##
 
 <p align="center">
     <a href="https://github.com/Alexssandrosilv?tab=repositories&sort=stargazers">
@@ -48,9 +39,10 @@ Possuo experiência em:
     </a>
 </p>
 
----
+##
 
-### 🤖 Linguagens e Ferramentas para Análise de Dados
+
+## Linguagens e Ferramentas para Análise de Dados
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45px" style="padding-right: 30px;" alt="R" title="R" />
@@ -81,11 +73,9 @@ Possuo experiência em:
   />
 </p>
 
----
 
-### 🤝 Quer Colaborar?
+## Quer Colaborar?
 
-Interessado em análise de dados ou projetos de Estatística? Ficarei feliz em colaborar.
-Meus repositórios mais ativos estão com foco em **R, Modelagem Estatística e Power BI**.
+Interessado em análise de dados ou projetos de Estatística? Ficarei feliz em colaborar. Meus repositórios mais ativos estão com foco em **R, Modelagem Estatística**.
 
 **[Visite meus Repositórios](https://github.com/Alexssandrosilv?tab=repositories)**
