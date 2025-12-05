@@ -11,8 +11,8 @@ Sou Graduando em Bacharelado em Estatística pela Universidade Federal do Amazon
 
 Possuo experiência em:
 
-* Análise exploratória de dados (EDA), modelagem estatística, simulação e automação de relatórios com R.
-* Desenvolvimento de dashboards no Power BI e automação de relatórios em R com publicação via GitHub Pages.
+* Análise exploratória de dados (EDA), modelagem estatística, simulação.
+* **Automação de relatórios em R** (com publicação via GitHub Pages).
 * Consultoria estatística para validação de hipóteses em pesquisas acadêmicas.
 
 ---
