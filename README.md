@@ -1,4 +1,8 @@
-# Alexssandro da Silva Oliveira 
+<p align="center">
+  <img src="[COLE A URL RAW DO SEU BANNER AQUI]" alt="Banner de Perfil com tema de Estatística/Análise de Dados" />
+</p>
+
+# Alexssandro da Silva Oliveira 
 
 **`Acadêmico de Estatística`**
 
@@ -11,8 +15,10 @@ Possuo experiência em:
 * Desenvolvimento de dashboards no Power BI e automação de relatórios em R com publicação via GitHub Pages.
 * Consultoria estatística para validação de hipóteses em pesquisas acadêmicas.
 
-<p align="left">
-    <a href="https://github.com/Alexssandrosilv?tab=repositories&sort=stargazers">
+---
+
+<p align="center">
+    <a href="https://github.com/Alexssandrosilv?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -46,66 +52,22 @@ Possuo experiência em:
 
 ### 🤖 Linguagens e Ferramentas para Análise de Dados
 
-<img 
-    align="left" 
-    alt="R"
-    title="R" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python (Em Estudo)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL (Em Estudo)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black"
-/>
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel / Google Sheets"
-    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-/>
-<br/>
-<br/>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40px" style="padding-right: 15px;" alt="R" title="R" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="padding-right: 15px;" alt="Python" title="Python (Em Estudo)" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" style="padding-right: 15px;" alt="MySQL" title="MySQL (Em Estudo)" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="padding-right: 15px;" alt="Git" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px" style="padding-right: 15px;" alt="GitHub" title="GitHub" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" title="Power BI" style="padding-right: 15px;" />
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" title="Excel / Google Sheets" />
+</p>
+
+---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -113,7 +75,6 @@ Possuo experiência em:
   />
 
 <img 
-      align="left" 
       alt="Top Linguagens" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssandrosilv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -123,6 +84,10 @@ Possuo experiência em:
 
 ---
 
-**Lembrete:** Para ter o `README.md` exibido na sua página principal do GitHub (como um currículo online), você deve criar um **novo repositório** chamado exatamente **`Alexssandrosilv`**.
+**Instruções Finais:**
 
-Copie o código acima, cole-o no `README.md` desse repositório (ou do seu `Alexssadrosilv.github.io`) e não se esqueça de substituir o placeholder `[COLE A URL RAW DO SEU BANNER AQUI]` pela URL da sua imagem.
+1.  Substitua seu código atual pelo código acima.
+2.  Confirme que o placeholder do banner (`[COLE A URL RAW DO SEU BANNER AQUI]`) foi trocado pela sua URL de imagem.
+3.  Salve o arquivo no seu repositório especial **`Alexssandrosilv`** (ou no que você está usando para teste).
+
+Ao carregar sua página do GitHub, todos os elementos agora devem aparecer centralizados e sem erros de alinhamento! Se tiver mais alguma dúvida, é só falar!
