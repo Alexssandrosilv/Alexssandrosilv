@@ -1,4 +1,4 @@
-## Alexssandro da Silva Oliveira - Acadêmico de Estatística**
+## Alexssandro da Silva Oliveira - Acadêmico de Estatística
 
 Análise de Dados
 
